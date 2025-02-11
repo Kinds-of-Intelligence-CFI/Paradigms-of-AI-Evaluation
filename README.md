@@ -1,1 +1,1 @@
-# Paradigms-of-AI-Evaluation
+# Paradigms of AI Evaluation
