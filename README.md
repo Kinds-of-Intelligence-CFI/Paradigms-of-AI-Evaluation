@@ -1,3 +1,3 @@
 # Paradigms of AI Evaluation
 
-<iframe src="https://github.com/Kinds-of-Intelligence-CFI/Paradigms-of-AI-Evaluation/blob/main/UMAP_projections_jaccard_dist_interactive.html" width="800" height="600"></iframe>
+Find the interactive plot [here](https://kinds-of-intelligence-cfi.github.io/Paradigms-of-AI-Evaluation/UMAP_projections_jaccard_dist_interactive.html).
